@@ -1,1 +1,1 @@
-# M2-embsys
+ In today's era, technology can enhance human life. Technology is evolving decade by decade. Automation was a science fiction earlier but not today. By combining latest technology with home, we can build an awesome home. With the Arduino uno and Windows 10, we can build a home automation system that is capable of operating home devices automatically.![WhatsApp Image 2022-02-20 at 10 07 32 PM](https://user-images.githubusercontent.com/98831387/154854748-541ca0d7-03d0-4c84-9d27-0e953ca071f0.jpeg)
