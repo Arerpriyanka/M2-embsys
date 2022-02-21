@@ -12,3 +12,9 @@ LOW LEVEL REQUIREMENT
 always be on
 stay at home
 be connected to the internet or an alternative pathway
+
+ADVANTAGES
+Energy saving
+It is convenient to use
+
+
