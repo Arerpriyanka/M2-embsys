@@ -4,22 +4,22 @@ In today's era, technology can enhance human life. Technology is evolving decade
 
 ### PIR-The pin configuration of the PIR sensor is shown in the figure. PIR sensor consists of three pins, ground, signal, and power at the side or bottom. Generally, the PIR sensor power is up to 5V, but, the large size PIR modules operate a relay instead of direct output.![WhatsApp Image 2022-02-25 at 8 55 48 PM](https://user-images.githubusercontent.com/98831387/155890355-d5619421-ba2b-42fb-8753-55d018eb37aa.jpeg)
 
-### HC-05 (Bluetooth)-To make a link between your Arduino and bluetooth, do the following: 1) Go to the bluetooth icon, right click and select Add a Device 2) Search for new device, Our bluetooth module will appear as HC-05, and add it 3) The pairing code will be 1234. 4)after make a pairing, we can now program the arduino and upload a sketch to send or receive data from Computer.![WhatsApp Image 2022-02-20 at 10 50 04 PM](https://user-images.githubusercontent.com/98831387/154855490-a9da393b-e0ee-4791-8782-0b1a398cffc5.jpeg)
+#### HC-05 (Bluetooth)-To make a link between your Arduino and bluetooth, do the following: 1) Go to the bluetooth icon, right click and select Add a Device 2) Search for new device, Our bluetooth module will appear as HC-05, and add it 3) The pairing code will be 1234. 4)after make a pairing, we can now program the arduino and upload a sketch to send or receive data from Computer.![WhatsApp Image 2022-02-20 at 10 50 04 PM](https://user-images.githubusercontent.com/98831387/154855490-a9da393b-e0ee-4791-8782-0b1a398cffc5.jpeg)
 
-#### HIGH LEVEL REQUIREMENT
+##### HIGH LEVEL REQUIREMENT
 it is very convenient to use
 security
 
 
-##### LOW LEVEL REQUIREMENT
+###### LOW LEVEL REQUIREMENT
 always be on
 stay at home
 be connected to the internet or an alternative pathway
 
-###### ADVANTAGES
+####### ADVANTAGES
 Energy saving
 It is convenient to use
 
-###### BLOCK DAIGRAM
+######## BLOCK DAIGRAM
 ![BLOCK DIAGRAM](https://user-images.githubusercontent.com/98831387/155890606-bda7e099-1093-454c-99c4-c39101e419e7.jpeg)
-#########  IMPLIMENTATION-![IMPLIMENTATION](https://user-images.githubusercontent.com/98831387/155890626-1ed734c2-6421-499a-b011-91f616e162fe.jpeg)
+######### IMPLIMENTATION-![IMPLIMENTATION](https://user-images.githubusercontent.com/98831387/155890626-1ed734c2-6421-499a-b011-91f616e162fe.jpeg)
