@@ -16,9 +16,12 @@ security
 always be on
 stay at home
 be connected to the internet or an alternative pathway
+
 ####### ADVANTAGES
 Energy saving
 It is convenient to use
+
 ######## BLOCK DAIGRAM
 ![BLOCK DIAGRAM](https://user-images.githubusercontent.com/98831387/155890606-bda7e099-1093-454c-99c4-c39101e419e7.jpeg)
+
 ######### IMPLIMENTATION-![IMPLIMENTATION](https://user-images.githubusercontent.com/98831387/155890626-1ed734c2-6421-499a-b011-91f616e162fe.jpeg)
