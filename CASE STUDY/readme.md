@@ -31,12 +31,10 @@ It is very convenient to use.
 
 #### LOW LEVEL REQUIREMENT
 Stay at home be connected to the internet.
-
 Always be on.
 
 ##### ADVANTAGE
 Energy saving.
-
 It is very convenient to use.
 
 
