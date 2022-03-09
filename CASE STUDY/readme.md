@@ -37,6 +37,8 @@ Always be on.
 Energy saving.
 It is very convenient to use.
 
+###### BLOCK DIAGRAM
+![BLOCK DIAGRAM](https://user-images.githubusercontent.com/98831387/157372301-48c5d052-fed5-4055-ad7d-b61153d6d769.jpeg)
 
 
 
